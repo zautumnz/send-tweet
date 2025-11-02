@@ -3,13 +3,7 @@
   "description": "Super simple Tweet-sending CLI tool in Node.",
   "version": "3.0.12",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
-  },
-  "funding": {
-    "type": "ko-fi",
-    "url": "https://ko-fi.com/zacanger"
+    "name": "Autumn Z"
   },
   "license": "LGPL-3.0",
   "main": "index.js",
@@ -29,12 +23,12 @@
     "test:lint": "eslint -c .eslintrc.json src",
     "test:ts": "tsc --noEmit"
   },
-  "homepage": "https://github.com/zacanger/send-tweet#readme",
+  "homepage": "https://github.com/zautumnz/send-tweet#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/send-tweet.git"
+    "url": "https://github.com/zautumnz/send-tweet.git"
   },
-  "bugs": "https://github.com/zacanger/send-tweet/issues",
+  "bugs": "https://github.com/zautumnz/send-tweet/issues",
   "keywords": [
     "cli",
     "client",
@@ -49,7 +43,6 @@
     "@types/node": "14.14.16",
     "@types/twitter": "1.7.0",
     "eslint": "7.16.0",
-    "eslint-plugin-zacanger": "2.2.2",
     "husky": "4.3.6",
     "lint-staged": "10.5.3",
     "npm-run-all": "4.1.5",
